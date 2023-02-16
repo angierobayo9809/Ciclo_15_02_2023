@@ -1,3 +1,4 @@
+let cantidad = prompt("Ingrese la cantidad de productos a ajustarle el precio");
 let costo = 0;
 let descuento=0;
 let precioFinal=0;
